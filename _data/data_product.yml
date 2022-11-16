@@ -1,6 +1,6 @@
 - url: /products/deer
   img: /images/products/deer/black.jpg
-  title: Sacha the Deer
+  title: Marsha and the bear
   harga: '5.000'
   stock: Tersedia
 
@@ -8,13 +8,13 @@
   img: /images/products/hog/blue.jpg
   title: Todd the Hedgehog
   harga: '10.000'
-  stock: 
+  stock: 5
 
 - url: /products/elephant
   img: /images/products/elephant/green.jpg
-  title: Bumble the Elephant
+  title: Bumble bee
   harga: '14.000'
-  stock: 
+  stock: Tersedia
 
 - url: /products/lion
   img: /images/products/lion/blue.jpg
